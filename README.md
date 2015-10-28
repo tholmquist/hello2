@@ -1,2 +1,2 @@
 # hello2
-what I just said
+is a hello world project.
